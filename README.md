@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Site URL here](https://product-preview-card-component-seven-ashy.vercel.app/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/product-preview-card-component-solution-miLy_pby_I)
+- Live Site URL: [Site URL](https://product-preview-card-component-seven-ashy.vercel.app/)
 
 ## My process
 
